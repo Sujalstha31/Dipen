@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937568670994",
+    "project_id": "bikemart-71321",
+    "storage_bucket": "bikemart-71321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937568670994:android:1c308347d3e27de56fcfcb",
+        "android_client_info": {
+          "package_name": "com.example.bike_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937568670994-amkkukeb8vd3mudoujv7ekkfn827704b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hGHGMwQh_zn-nsZt3DoGqfQA5oh2IJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937568670994-amkkukeb8vd3mudoujv7ekkfn827704b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
